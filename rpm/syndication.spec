@@ -1,4 +1,4 @@
-%global kf5_version 5.106.0
+%global kf5_version 5.107.0
 
 Name:    opt-kf5-syndication
 Epoch:   1
