@@ -1,8 +1,8 @@
-%global kf5_version 5.115.0
+%global kf5_version 5.116.0
 
 Name:    opt-kf5-syndication
 Epoch:   1
-Version: 5.115.0
+Version: 5.116.0
 Release: 1%{?dist}
 Summary: The Syndication Library
 License: LGPLv2+ and BSD
